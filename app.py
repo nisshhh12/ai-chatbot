@@ -1,2 +1,2 @@
 import streamlit as at 
-st.title("streamlit chatboy")
+st.title("streamlit chatbot")
